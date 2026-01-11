@@ -1,0 +1,51 @@
+{
+ "model_name": "cnn3_dnn2",
+ "sr": 16000,
+ "nb_samp": 64600,
+ "first_conv": 256,
+ "in_channels": 1,
+ "filts": [
+  20,
+  [
+   20,
+   20
+  ],
+  [
+   20,
+   128
+  ],
+  [
+   128,
+   128
+  ]
+ ],
+ "blocks": [
+  2,
+  4
+ ],
+ "nb_fc_node": 256,
+ "gru_node": 256,
+ "nb_gru_layer": 3,
+ "nb_classes": 2,
+ "duration": 1,
+ "nmels": 128,
+ "winlen": 640,
+ "hoplen": 320,
+ "nfft": 640,
+ "formants_num": 2,
+ "log_mel": true,
+ "dual_feats": false,
+ "use_melspec": false,
+ "melspec_diff": false,
+ "use_formants": false,
+ "formants_diff": true,
+ "use_pitch": false,
+ "pitch_diff": true,
+ "use_binary_features": true,
+ "thresholds": [
+  0.6,
+  0.65,
+  0.7,
+  0.75
+ ]
+}

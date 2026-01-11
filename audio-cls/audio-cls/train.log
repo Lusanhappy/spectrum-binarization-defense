@@ -1,0 +1,52 @@
+2023-01-15 13:35:02 - train - INFO      - train.py : 44 line - Train config set: lr=0.001
+2023-01-15 14:16:34 - train - INFO      - train.py : 223 line - 7.3826 min (0.1230 h) cost.
+2023-01-16 11:54:04 - train - INFO      - train.py : 223 line - 3.9054 min (0.0651 h) cost.
+2023-02-02 13:23:31 - train - INFO      - train.py : 223 line - 4.9733 min (0.0829 h) cost.
+2023-02-02 14:00:08 - train - INFO      - train.py : 223 line - 4.5684 min (0.0761 h) cost.
+2023-02-02 14:54:51 - train - INFO      - train.py : 223 line - 5.6134 min (0.0936 h) cost.
+2023-02-02 15:19:36 - train - INFO      - train.py : 223 line - 5.4704 min (0.0912 h) cost.
+2023-02-02 16:55:10 - train - INFO      - train.py : 223 line - 4.9084 min (0.0818 h) cost.
+2023-02-02 17:05:41 - train - INFO      - train.py : 223 line - 4.6957 min (0.0783 h) cost.
+2023-02-02 19:07:23 - train - INFO      - train.py : 223 line - 4.6884 min (0.0781 h) cost.
+2023-02-02 19:20:03 - train - INFO      - train.py : 223 line - 4.7587 min (0.0793 h) cost.
+2023-02-02 19:58:57 - train - INFO      - train.py : 223 line - 5.3778 min (0.0896 h) cost.
+2023-02-02 20:26:43 - train - INFO      - train.py : 223 line - 5.5320 min (0.0922 h) cost.
+2023-02-02 22:28:00 - train - INFO      - train.py : 223 line - 4.8773 min (0.0813 h) cost.
+2023-02-03 11:16:53 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-melspec
+2023-02-03 11:21:03 - train - INFO      - train.py : 223 line - 4.1535 min (0.0692 h) cost.
+2023-02-03 11:43:24 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-melspec
+2023-02-03 11:49:44 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-bin
+2023-02-03 11:55:45 - train - INFO      - train.py : 223 line - 6.0149 min (0.1002 h) cost.
+2023-02-03 12:21:36 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-bin
+2023-02-03 12:27:51 - train - INFO      - train.py : 223 line - 6.2495 min (0.1042 h) cost.
+2023-02-03 12:59:23 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-bin
+2023-02-03 13:05:35 - train - INFO      - train.py : 223 line - 6.1897 min (0.1032 h) cost.
+2023-02-03 13:48:23 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-newdata
+2023-02-03 13:55:20 - train - INFO      - train.py : 223 line - 6.9369 min (0.1156 h) cost.
+2023-02-03 16:09:09 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-w2v-dt
+2023-02-03 16:24:29 - train - INFO      - train.py : 223 line - 15.3090 min (0.2551 h) cost.
+2023-02-03 17:11:20 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-w2v-dt/
+2023-02-03 17:22:13 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-w2v-dt/
+2023-02-03 17:23:29 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-w2v-dt/
+2023-02-03 17:28:29 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-w2v-dt/
+2023-02-03 17:39:07 - train - INFO      - train.py : 223 line - 10.6374 min (0.1773 h) cost.
+2023-02-03 17:41:26 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-w2v-dt/
+2023-02-03 17:47:53 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-w2v-dt/
+2023-02-03 17:52:40 - train - INFO      - train.py : 223 line - 11.2141 min (0.1869 h) cost.
+2023-02-03 17:55:18 - train - INFO      - train.py : 223 line - 7.3979 min (0.1233 h) cost.
+2023-02-03 18:08:49 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-w2v-dt/
+2023-02-03 18:15:46 - train - INFO      - train.py : 223 line - 6.9404 min (0.1157 h) cost.
+2023-02-03 18:25:24 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-w2v-dt/
+2023-02-03 18:30:56 - train - INFO      - train.py : 223 line - 5.5236 min (0.0921 h) cost.
+2023-02-03 18:33:02 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-w2v-dt/
+2023-02-03 18:34:51 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-w2v-dt/
+2023-02-03 18:39:07 - train - INFO      - train.py : 223 line - 6.0763 min (0.1013 h) cost.
+2023-02-03 18:40:54 - train - INFO      - train.py : 223 line - 6.0486 min (0.1008 h) cost.
+2023-02-03 18:44:38 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-w2v-dt/
+2023-02-03 18:50:14 - train - INFO      - train.py : 223 line - 5.5913 min (0.0932 h) cost.
+2023-02-03 19:00:02 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-w2v-dt/
+2023-02-03 19:03:40 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-w2v-dt/
+2023-02-03 19:09:41 - train - INFO      - train.py : 223 line - 6.0077 min (0.1001 h) cost.
+2023-02-03 19:20:07 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-speech-music
+2023-02-03 19:20:23 - train - INFO      - train.py : 44 line - Train config set: save_path=logs-speech-music
+2023-02-03 19:26:52 - train - INFO      - train.py : 223 line - 6.4697 min (0.1078 h) cost.

@@ -1,0 +1,60 @@
+{
+ "debug_info": true,
+ "random_seed": 999,
+ "data_path": null,
+ "train_adv_dirs": [
+  [
+   "datasets/adv/datatang-train",
+   4000
+  ],
+  [
+   "datasets/adv/wav2vec2-nobandlimit-train",
+   500
+  ],
+  [
+   "datasets/adv/wav2vec2-bandlimit-train",
+   500
+  ]
+ ],
+ "train_cln_dirs": [
+  [
+   "datasets/clean/music-train/",
+   6000
+  ]
+ ],
+ "val_adv_dirs": [
+  [
+   "datasets/adv/datatang-val",
+   1000
+  ],
+  [
+   "datasets/adv/wav2vec2-oppo-test",
+   1000
+  ]
+ ],
+ "val_cln_dirs": [
+  [
+   "datasets/clean/music-infer/music-val",
+   2000
+  ]
+ ],
+ "no_val": false,
+ "train_oversample": false,
+ "train_downsample": false,
+ "val_downsample": true,
+ "lr": 0.0001,
+ "weight_decay": 0.01,
+ "epoch": 40,
+ "save_interval": 10,
+ "save_better": true,
+ "save_valacc_bound": 0.75,
+ "batch": 64,
+ "static_features": true,
+ "sample_the_middle": false,
+ "skip_min": 0.0,
+ "random_skip_max": 0.1,
+ "random_noise_amp": 0.0,
+ "clean_noise_only": true,
+ "save_path": "logs-w2v-dt/2023-02-03-19-03-41",
+ "restore_from": null
+}
