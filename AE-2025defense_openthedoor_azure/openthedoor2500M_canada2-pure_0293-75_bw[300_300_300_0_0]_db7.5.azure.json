@@ -1,0 +1,1 @@
+{"success": true, "result": {"Id": "5bd2b84ed6a64eb189c129118160166a", "RecognitionStatus": "Success", "Offset": 8700000, "Duration": 9200000, "Channel": 0, "DisplayText": "Open the door.", "NBest": [{"Confidence": 0.8218835, "Lexical": "open the door", "ITN": "open the door", "MaskedITN": "open the door", "Display": "Open the door."}]}}
